@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/testing/testing",
+    "pages/result/result"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "跑个分",
+    "navigationBarBackgroundColor": "#2C3E50",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
